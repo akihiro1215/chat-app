@@ -48,7 +48,7 @@ const Room = () => {
     }
     return (
         <>
-            <h1>Room</h1>
+            <h1>Satsuta's Room</h1>
             <ul>
                 {messages.map(message => (
                     <li key={message.id}>
